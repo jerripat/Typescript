@@ -22,3 +22,9 @@ const logTodo = (id: number, title: string, completed: boolean) => {
 		Is it finished? ${completed}
 		`);
 };
+// Function annotation
+const logNumber = (i: number) => {
+
+    
+
+}
